@@ -1,0 +1,43 @@
+section p{
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(129, 129, 129);
+}
+
+section {
+    padding: 50px 10px;
+}
+
+.sectionHeading {
+    font-family: 'Roboto Slab';
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+    /* background-image: linear-gradient(to left, #C845AA, #770DDB);  */
+}
+
+.postHeadingPara {
+    text-align: center; 
+    padding: 20px 24% 30px;
+}
+
+.greySection {
+    background-color: #dddddd;
+}
+
+/* .themeColorBtn {
+    background-image: linear-gradient(to top left, #C845AA, #770DDB); 
+}
+
+.themeColor {
+    background-image: linear-gradient(to left, #C845AA, #770DDB); 
+} */
+
+.teamSection .row div {
+    padding: 7px;
+}
+
+.teamSection .row div:hover {
+    padding: 2px;
+}
+
